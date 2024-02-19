@@ -1,0 +1,2 @@
+SELECT * FROM Trainers
+ORDER BY id ASC;
